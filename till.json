@@ -24,7 +24,7 @@
   "badgelimitamount" : "60",
   "showbadgeornot" : "True",
   "till" : ".",
-  "payhero" : "https://collofamilybank-api.onrender.com",
+  "payhero" : "https://payhero-api.onrender.com",
   "payamount5" : "270",
   "payhero1" : "https://payhero-api.onrender.com"
 }
